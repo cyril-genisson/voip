@@ -58,4 +58,7 @@ Les inconvénients de VOIP sont les suivant :
     
   - Les fraudes téléphoniques : appelés PING CALLS, la VOIP permet d'automatiser les appels frauduleux pour            multiplier les chances d'appels surtaxés et les profits qui y sont liés.
 
-  - Le vol de donées
+  - Le vol de donées : certains fraudeurs profitent d'appels VOIP non chiffré pour récupérer un accés aux données      dans les conversations téléphoniques, appelés SPIM
+
+  - Malware et Virus : morceaux de programme informatique malveillants qui sont déployés sur les machines ou           réseau informatique et qui peuvent venir de différentes sources, certianes sont particulièrement avancées et       intracables
+
