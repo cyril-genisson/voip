@@ -1,4 +1,4 @@
-# voip
+# VOIP
 
 ## Qu'est-ce que VOIP 
 
@@ -28,3 +28,34 @@ Les inconvénients de VOIP sont les suivant :
 
 ## En quoi la configuration VOIP d'un call center est différente de la configuration VOIP d'un standard téléphonique d'une entreprise ?
 
+### 1. Capacité de traitement des appels 
+
+- Un call center traite un nombre important d'appels, par conséquent, la configuration VOIP de celui-ci doit etre    capable de gérer un grand nombre d'appels simultannées et de fournir des fonctionnabilités telles que le routage   intelligents des appels et la mise en file d'attente pour garantir une efficacité maximal
+  
+- Un standard téléphonique peut avoir des exigences de traitement d'appels moins intenses, donc la configuration     VOIP peut etre simple et axée sur la gestion des communications internes et externes de bases 
+
+### 2. Fonctinnalités avancées de centre d'appels
+
+- Un call center a souvent besoin de fonctionnalités avancées telles que l'enregistrement des appels, le suivi des   performances des agents, mes options de routage basées sur les compétences et l'intégration avec des logiciels     CRM ( Customer Relationship Management) ou des systèmes de gestion de tickets
+
+- Un standard téléphonique peut se concentrer davantages sur des fonctionnalités de communication de base telles     que la messagerie vocale, le renvoi d'appels et la gestion de conférences téléphoniques
+
+### 3. Redondance et disponibilité 
+
+  - Pour les call centers, la redondance et la disponibilité sont cruciales, car toutes interruption peut etre       fatale et entrainer une perte de revenus ou une baisse de satisfaction client. C'est pour cela que dnas ces call   centers, on peut retrouver des mesures de redondande en incluant des serveurs de sauvegarde, des liaisons          Internet redondantes et des plans de continuité des activité
+
+  - Pour un standard téléphonique, la redondance et la disponibilité peuvent être importantes mais pas aussi           critiques
+
+### 4. Analyse et rapports de performance 
+  - Les call centers ont souvent besoin de mesurer et d'analyser les performances des agents, le temps d'attente       des appelants, les taux de réponse et autre. La configuration VOIP doit inclure des outils de reporting            avancées pour fournir ces informations
+
+  - Un standard téléphonique peut avoir des besoins moindre ne matières d'analyse et de reporting, se concentrant      principalement sur des statistiques de bases telles que le nombre d'appels entrants et sortant  
+
+## Quels sont les chiffrements les mieux approprier à la VOIP pour assurer la sécurité ?
+
+ Tout d'abord il faut savoir quels sont les risques associés à la VOIP :
+  - Le DoS, ou déni de service : attaqye visant a rendre inaccesible un ou plusieurs serveurs grace à l'envoiede       multiples requetes jusqu'à la saturer ou par l'exploitation de failles de sécurité afin de provoquer une panne.
+    
+  - Les fraudes téléphoniques : appelés PING CALLS, la VOIP permet d'automatiser les appels frauduleux pour            multiplier les chances d'appels surtaxés et les profits qui y sont liés.
+
+  - Le vol de donées
